@@ -6,7 +6,8 @@
   [Ciudad] [int] NULL,
   [Estado] [int] NULL,
   [Pais] [int] NULL,
-  [Telefono] [varchar](100) NULL
+  [Telefono] [varchar](100) NULL,
+  [NuevaColumna] [int] NULL
 )
 ON [PRIMARY]
 GO
