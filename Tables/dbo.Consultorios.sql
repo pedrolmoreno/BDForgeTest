@@ -8,7 +8,8 @@
   [Pais] [int] NULL,
   [Telefono] [varchar](100) NULL,
   [NuevaColumna] [int] NULL,
-  [OtraNuevaColumna] [int] NULL
+  [OtraNuevaColumna] [int] NULL,
+  PRIMARY KEY CLUSTERED ([Id])
 )
 ON [PRIMARY]
 GO
